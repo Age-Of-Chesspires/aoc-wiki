@@ -37,12 +37,12 @@
     },
     {
       "file": "bishop_huh_black.gif",
-      "name": "Bishop Huh Black",
+      "name": "Bishop Huh",
       "tags": ["huh", "bishop", "confused", "black"]
     },
     {
       "file": "bishop_huh_white.gif",
-      "name": "Bishop Huh White",
+      "name": "Bishop Huh",
       "tags": ["huh", "bishop", "confused", "white"]
     },
     {
@@ -77,12 +77,12 @@
     },
     {
       "file": "enpassant_black.gif",
-      "name": "Enpassant Black",
+      "name": "Enpassant",
       "tags": ["en passant", "pawn", "black"]
     },
     {
       "file": "enpassant_white.gif",
-      "name": "Enpassant White",
+      "name": "Enpassant",
       "tags": ["en passant", "pawn", "white"]
     },
     {
