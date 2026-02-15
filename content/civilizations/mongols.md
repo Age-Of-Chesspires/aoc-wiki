@@ -3,7 +3,7 @@
 # Mongols
 
 ## Rules
-If your [pawns](#/pieces/pawn) capture a [non-minor piece](#/pieces/index#minor), they are promoted to a [Knight](#/pieces/knight).
+If your [pawns](#/pieces/pawn) capture a [non-minor piece](#/pieces/index#minor) (excluding [horseman](#/pieces/horseman)), they are promoted to a [Knight](#/pieces/knight).
 All of your [Bishops](#/pieces/bishop) are replaced by [Knights](#/pieces/knight).
 Your [Knights](#/pieces/knight) gain 1 square of movement in the diagonal directions.
 
