@@ -2,7 +2,7 @@
 
 <br>  
 
-Use this wiki to quickly look up **rules**, **civilizations**, **pieces**, and **research**.
+Use this wiki to quickly look up [How to Play](#/chess), [Civilizations](#/civilizations/index), [Pieces](#/pieces/index), [Rules of Engagement](#/research/index), and [Emotes](#/).
 <br>
 ---
 <br>
@@ -59,6 +59,7 @@ Use this wiki to quickly look up **rules**, **civilizations**, **pieces**, and *
     </div>
   </section>
   <br>
+  <hr>
   <section class="home-block">
     <h2>Pieces</h2>
     <div class="home-grid">
@@ -101,6 +102,7 @@ Use this wiki to quickly look up **rules**, **civilizations**, **pieces**, and *
     </div>
   </section>
   <br>
+  <hr>
   <section class="home-block">
     <h2>Research</h2>
     <div class="home-grid">
@@ -214,5 +216,8 @@ Use this wiki to quickly look up **rules**, **civilizations**, **pieces**, and *
       </a>
     </div>
   </section>
-
+  <br>
+  <hr>
+  <h2>Emotes</h2>
+  <div class="emote-grid" data-emote-grid></div>
 </div>
