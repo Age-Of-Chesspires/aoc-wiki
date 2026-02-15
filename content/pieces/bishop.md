@@ -11,7 +11,7 @@ The Bishop is classified as a [major piece](#/pieces/index#major) with the follo
 <br>
 ---
 
-## Research Modifiers
+## Common Modifiers
 **[Manifest Destiny](#/research/manifest-destiny):** Bishops may move one square directly forward.
 **[Inquisitors](#/research/inquisitors):** On capturing a [major piece](#/pieces/index#major), the bishop must immediately move again. 
 **[Transgression](#/research/transgression):** Landing diagonally adjacent to an enemy [piece](#/pieces/index) kills the bishop. 

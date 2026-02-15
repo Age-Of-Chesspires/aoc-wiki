@@ -11,7 +11,7 @@ The Pawn is classified as a [minor piece](#/pieces/index#minor) with the followi
 <br>
 ---
 
-## Research Modifiers
+## Common Modifiers
 **[Tactical Retreat](#/research/tactical-retreat):** [Minor pieces](#/pieces/index#minor) may move one square straight backward.
 **[Scorched Earth](#/research/scorched-earth):** Every 10th turn, one random [minor piece](#/pieces/index#minor) or [horseman](#/pieces/horseman) is removed from the board.
 **[Junshi](#/research/junshi):** When a [minor piece](#/pieces/index#minor) dies, any friendly [minor piece](#/pieces/index#minor) behind it in the same file dies in solidarity.

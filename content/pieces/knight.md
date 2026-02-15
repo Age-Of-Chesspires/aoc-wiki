@@ -11,7 +11,7 @@ The Knight is classified as a [major piece](#/pieces/index#major) with the follo
 <br>
 ---
 
-## Research Modifiers
+## Common Modifiers
 **[Horse Shoes](#/research/horse-shoes):** Knights gain one-square diagonal movement.
 **[Mounted Momentum](#/research/mounted-momentum):** One capturing a [non-major piece](#/pieces/index#major), knights must immediately move again. 
 **[Failed Joust](#/research/failed-joust):** If a knight ends its move directly in front of an enemy [piece](#/pieces/index), it dies. 

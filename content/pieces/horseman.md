@@ -11,7 +11,7 @@ The Horseman is classified as a [major piece](#/pieces/index#major) with the fol
 <br>
 ---
 
-## Research Modifiers
+## Common Modifiers
 **[Scorched Earth](#/research/scorched-earth):** Every 10th turn, one random [minor piece](#/pieces/index#minor) or horseman is removed from the board.
 **[Sneaky Queen](#/research/sneaky-queen):** One random [minor piece](#/pieces/index#minor) or horseman becomes a hidden [queen](#/pieces/queen), revealing after its first non-standard move.
 

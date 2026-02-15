@@ -10,7 +10,7 @@ The board is a standard 8x8 chessboard and follows the a-h, 1-8 labeling convent
 
 By default each side is given a 10:00 minute timer that increments 10 seconds after each turn. 
 
-Before the match begins, 3 [research](#/research/index) cards are shown and players are given 30 seconds to vote. By default the [Dark Age](#/research/dark-age) card is chosen and no special rules are added to the match.
+Before the match begins, 3 [Rules of Engagement](#/research/index) cards are shown and players are given 30 seconds to vote. By default the [Dark Age](#/research/dark-age) card is chosen and no special rules are added to the match.
 
 <br>
 ---

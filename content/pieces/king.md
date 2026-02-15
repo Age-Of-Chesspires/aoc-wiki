@@ -11,7 +11,7 @@ The King is classified as a [royal piece](#/pieces/index#royals) with the follow
 <br>
 ---
 
-## Research Modifiers
+## Common Modifiers
 **[Feudalism](#/research/feudalism):** [Royals](#/pieces/index#royals) may move 2 squares forward instead of only one.
 **[Castle 2](#/research/castle-2):** [Royals](#/pieces/index#royals) may swap places with any friendly [piece](#/pieces/index) once per game. 
 **[Emergency Coronations](#/research/emergency-coronations):** When a King dies, a random friendly [knight](#/pieces/knight) is crowned the new King. 

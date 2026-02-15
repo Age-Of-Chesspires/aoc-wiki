@@ -1,8 +1,8 @@
 <!-- content/research/index.md -->
-# Research
+# Rules of Engagement
 
 ## Overview
-At the start of the game, each player votes on the match’s Research. Votes increase the chance that a Research occurs. 
+At the start of the game, each player votes on the match’s Rules. Votes increase the chance that a Rule occurs. 
 By default, there are 2 votes for [Dark Age](#/research/dark-age), which causes no special changes.
 
 ## List
