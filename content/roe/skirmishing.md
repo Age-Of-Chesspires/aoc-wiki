@@ -10,5 +10,5 @@ Each player gets a 30 seconds per-move shot clock (resets every turn) instead of
 ## Card
 
 
-![Skirmishing Card](assets/roe/cards/skirmishing.svg)
+![Skirmishing Card](assets/roe/cards/skirmishing.png)
 

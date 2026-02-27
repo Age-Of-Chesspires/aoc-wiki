@@ -10,4 +10,4 @@ When checked by exactly one [piece](#/pieces/index), sacrifice all [minor pieces
 ## Card
 
 
-![Noble Sacrifice Card](assets/roe/cards/noble-sacrifice.svg)
+![Noble Sacrifice Card](assets/roe/cards/noble-sacrifice.png)

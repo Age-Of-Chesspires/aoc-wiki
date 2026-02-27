@@ -10,4 +10,4 @@
 ## Card
 
 
-![Momentum Card](assets/roe/cards/momentum.svg)
+![Momentum Card](assets/roe/cards/momentum.png)

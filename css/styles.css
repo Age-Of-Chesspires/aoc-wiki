@@ -286,11 +286,10 @@ code, pre{ font-family: var(--mono); }
 }
 
 .md-img{
-  max-width: 100%;
+  max-width: min(100%, 256px);
   height: auto;
   display: block;
   border-radius: 12px;
-  border: 1px solid var(--border);
   background: var(--panel2);
 }
 

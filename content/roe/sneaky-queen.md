@@ -10,4 +10,4 @@ One random [minor piece](#/pieces/index#minor) or [horseman](#/pieces/horseman) 
 ## Card
 
 
-![Sneaky Queen Card](assets/roe/cards/sneaky-queen.svg)
+![Sneaky Queen Card](assets/roe/cards/sneaky-queen.png)

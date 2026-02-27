@@ -10,4 +10,4 @@ During the first three turns, the same [minor piece](#/pieces/index#minor) must 
 ## Card
 
 
-![Blitzkrieg Card](assets/roe/cards/blitzkrieg.svg)
+![Blitzkrieg Card](assets/roe/cards/blitzkrieg.png)

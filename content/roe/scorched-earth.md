@@ -10,4 +10,4 @@ Every 10th turn, one random [minor piece](#/pieces/index#minor) per-side is remo
 ## Card
 
 
-![Scorched Earth Card](assets/roe/cards/scorched-earth.svg)
+![Scorched Earth Card](assets/roe/cards/scorched-earth.png)

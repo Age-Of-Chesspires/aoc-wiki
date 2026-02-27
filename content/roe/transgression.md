@@ -10,4 +10,4 @@ If a [bishop](#/pieces/bishop) ends its turn diagonally adjacent to an enemy [pi
 ## Card
 
 
-![Transgression Card](assets/roe/cards/transgression.svg)
+![Transgression Card](assets/roe/cards/transgression.png)

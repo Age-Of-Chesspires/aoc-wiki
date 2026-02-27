@@ -10,4 +10,4 @@ When a [minor piece](#/pieces/index#minor) dies, friendly [minor pieces](#/piece
 ## Card
 
 
-![Junshi Card](assets/roe/cards/junshi.svg)
+![Junshi Card](assets/roe/cards/junshi.png)

@@ -10,4 +10,4 @@ When your [Royal](#/pieces/index#royals) dies, a random friendly [knight](#/piec
 ## Card
 
 
-![Emergency Coronations Card](assets/roe/cards/emergency-coronations.svg)
+![Emergency Coronations Card](assets/roe/cards/emergency-coronations.png)

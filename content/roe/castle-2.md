@@ -10,4 +10,4 @@
 ## Card
 
 
-![Castle 2 Card](assets/roe/cards/castle-2.svg)
+![Castle 2 Card](assets/roe/cards/castle-2.png)

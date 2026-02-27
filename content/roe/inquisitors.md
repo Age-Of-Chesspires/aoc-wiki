@@ -10,4 +10,4 @@ On capturing a [major piece](#/pieces/index#major), the [bishop](#/pieces/bishop
 ## Card
 
 
-![Inquisitors Card](assets/roe/cards/inquisitors.svg)
+![Inquisitors Card](assets/roe/cards/inquisitors.png)

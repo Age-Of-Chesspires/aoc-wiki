@@ -10,5 +10,5 @@
 ## Card
 
 
-![Tactical Retreat Card](assets/roe/cards/tactical-retreat.svg)
+![Tactical Retreat Card](assets/roe/cards/tactical-retreat.png)
 

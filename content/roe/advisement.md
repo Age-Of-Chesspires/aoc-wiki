@@ -9,6 +9,6 @@ Once per game, undo the previous turn.
 ## Card
 
 
-![Advisement Card](assets/roe/cards/advisement.svg)
+![Advisement Card](assets/roe/cards/advisement.png)
 
 

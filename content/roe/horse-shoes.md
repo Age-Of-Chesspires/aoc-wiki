@@ -10,4 +10,4 @@
 ## Card
 
 
-![Horse Shoes Card](assets/roe/cards/horse-shoes.svg)
+![Horse Shoes Card](assets/roe/cards/horse-shoes.png)

@@ -10,4 +10,4 @@ If a [knight](#/pieces/knight) ends its move directly in front of an enemy [piec
 ## Card
 
 
-![Failed Joust Card](assets/roe/cards/failed-joust.svg)
+![Failed Joust Card](assets/roe/cards/failed-joust.png)

@@ -10,4 +10,4 @@ The opponent's half of the board is completely hidden for 10 turns.
 ## Card
 
 
-![Fog of War Card](assets/roe/cards/fog-of-war.svg)
+![Fog of War Card](assets/roe/cards/fog-of-war.png)

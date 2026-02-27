@@ -10,4 +10,4 @@ Capturing a [major piece](#/pieces/index#major) lets the [knight](#/pieces/knigh
 ## Card
 
 
-![Mounted Momentum Card](assets/roe/cards/mounted-momentum.svg)
+![Mounted Momentum Card](assets/roe/cards/mounted-momentum.png)

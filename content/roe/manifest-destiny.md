@@ -10,5 +10,5 @@
 ## Card
 
 
-![Manifest Destiny Card](assets/roe/cards/manifest-destiny.svg)
+![Manifest Destiny Card](assets/roe/cards/manifest-destiny.png)
 

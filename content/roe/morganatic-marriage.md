@@ -10,4 +10,4 @@
 ## Card
 
 
-![Morganatic Marriage Card](assets/roe/cards/morganatic-marriage.svg)
+![Morganatic Marriage Card](assets/roe/cards/morganatic-marriage.png)
