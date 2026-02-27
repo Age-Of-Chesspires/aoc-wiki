@@ -12,9 +12,9 @@ The Queen is classified as a [major piece](#/pieces/index#major) with the follow
 ---
 
 ## Common Modifiers
-**[Dame](#/research/dame):** Queens gain [knight](#/pieces/knight) movement.  
-**[Morganatic Marriage](#/research/morganatic-marriage):** [Minor pieces](#/pieces/index#minor) cannot be promoted into queens.  
-**[Sneaky Queen](#/research/sneaky-queen):** One random [minor piece](#/pieces/index#minor) or [horseman](#/pieces/horseman) becomes a hidden queen, revealing after its first non-standard move.
+**[Dame](#/roe/dame):** Queens gain [knight](#/pieces/knight) movement.  
+**[Morganatic Marriage](#/roe/morganatic-marriage):** [Minor pieces](#/pieces/index#minor) cannot be promoted into queens.  
+**[Sneaky Queen](#/roe/sneaky-queen):** One random [minor piece](#/pieces/index#minor) or [horseman](#/pieces/horseman) becomes a hidden queen, revealing after its first non-standard move.
 
 
 <br>

@@ -12,11 +12,11 @@ The Knight is classified as a [major piece](#/pieces/index#major) with the follo
 ---
 
 ## Common Modifiers
-**[Horse Shoes](#/research/horse-shoes):** Knights gain one-square diagonal movement.
-**[Mounted Momentum](#/research/mounted-momentum):** One capturing a [non-major piece](#/pieces/index#major), knights must immediately move again. 
-**[Failed Joust](#/research/failed-joust):** If a knight ends its move directly in front of an enemy [piece](#/pieces/index), it dies. 
-**[Emergency Coronations](#/research/emergency-coronations):** When a king dies, a random friendly [knight](#/pieces/knight) is crowned the new king. 
-**[Lancers](#/research/lancers):** Knights gain 2 square forward movement.
+**[Horse Shoes](#/roe/horse-shoes):** Knights gain one-square diagonal movement.
+**[Mounted Momentum](#/roe/mounted-momentum):** One capturing a [non-major piece](#/pieces/index#major), knights must immediately move again. 
+**[Failed Joust](#/roe/failed-joust):** If a knight ends its move directly in front of an enemy [piece](#/pieces/index), it dies. 
+**[Emergency Coronations](#/roe/emergency-coronations):** When a king dies, a random friendly [knight](#/pieces/knight) is crowned the new king. 
+**[Lancers](#/roe/lancers):** Knights gain 2 square forward movement.
 
 <br>
 ---

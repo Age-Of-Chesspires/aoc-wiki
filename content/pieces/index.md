@@ -54,5 +54,5 @@ High-value leadership pieces. Losing your royal is usually decisive and often in
 
 ## Related
 - [Rules](#/rules/index)
-- [Research](#/research/index)
+- [roe](#/roe/index)
 - [Civilizations](#/civilizations/index)

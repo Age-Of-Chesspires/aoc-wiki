@@ -365,8 +365,8 @@ function titleForWikiPath(path) {
     if (path.startsWith("civilizations/") && slug !== "index") {
       return `assets/emblems/new/${slug}.png`;
     }
-    if (path.startsWith("research/") && slug !== "index") {
-      return `assets/research/icons/${slug}.svg`;
+    if (path.startsWith("roe/") && slug !== "index") {
+      return `assets/roe/icons/${slug}.svg`;
     }
     return null;
   }

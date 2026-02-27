@@ -12,10 +12,10 @@ The Bishop is classified as a [major piece](#/pieces/index#major) with the follo
 ---
 
 ## Common Modifiers
-**[Manifest Destiny](#/research/manifest-destiny):** Bishops may move one square directly forward.
-**[Inquisitors](#/research/inquisitors):** On capturing a [major piece](#/pieces/index#major), the bishop must immediately move again. 
-**[Transgression](#/research/transgression):** Landing diagonally adjacent to an enemy [piece](#/pieces/index) kills the bishop. 
-**[Missionaries](#/research/missionaries):** Bishops can teleport to any square its partner can move to, but can only capture on squares it could already move to. 
+**[Manifest Destiny](#/roe/manifest-destiny):** Bishops may move one square directly forward.
+**[Inquisitors](#/roe/inquisitors):** On capturing a [major piece](#/pieces/index#major), the bishop must immediately move again. 
+**[Transgression](#/roe/transgression):** Landing diagonally adjacent to an enemy [piece](#/pieces/index) kills the bishop. 
+**[Missionaries](#/roe/missionaries):** Bishops can teleport to any square its partner can move to, but can only capture on squares it could already move to. 
 
 <br>
 ---

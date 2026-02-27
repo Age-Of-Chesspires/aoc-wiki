@@ -10,7 +10,7 @@ The board is a standard 8x8 chessboard and follows the a-h, 1-8 labeling convent
 
 By default each side is given a 10:00 minute timer that increments 10 seconds after each turn. 
 
-Before the match begins, 3 [Rules of Engagement](#/research/index) cards are shown and players are given 30 seconds to vote. By default the [Dark Age](#/research/dark-age) card is chosen and no special rules are added to the match.
+Before the match begins, 3 [Rules of Engagement](#/roe/index) cards are shown and players are given 30 seconds to vote. By default the [Dark Age](#/roe/dark-age) card is chosen and no special rules are added to the match.
 
 <br>
 ---
@@ -48,12 +48,12 @@ A player may at any point during the match choose to resign, forfitting the matc
 #### Checkmate
 A Checkmate occurs when a players [Royal](#/pieces/index#royals) is in check and there is **no legal move** that removes the check.
 ##### Note
-- Unless altered by a special rule such as the [French](#/civilizations/french) or [Emergency Coronations](#/research/emergency-coronations), This will result in the checkmated side losing the match.
+- Unless altered by a special rule such as the [French](#/civilizations/french) or [Emergency Coronations](#/roe/emergency-coronations), This will result in the checkmated side losing the match.
 
 <br>
 
 #### Regicide
-Regicide is a special occurance where a players [Royal](#/pieces/index#royals) is captured due to the inclusion of special rules such as the [Chinese](#/civilizations/chinese) or [Emergency Coronations](#/research/emergency-coronations).
+Regicide is a special occurance where a players [Royal](#/pieces/index#royals) is captured due to the inclusion of special rules such as the [Chinese](#/civilizations/chinese) or [Emergency Coronations](#/roe/emergency-coronations).
 This results in a loss for the player who no longer has an active [Royal](#/pieces/index#royals) piece.
 
 #### Expired Clock

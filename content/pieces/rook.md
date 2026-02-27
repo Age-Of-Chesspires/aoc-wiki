@@ -12,9 +12,9 @@ The Rook is classified as a [major piece](#/pieces/index#major) with the followi
 ---
 
 ## Common Modifiers
-**[Momentum](#/research/momentum):** Rooks can teleport to any square its partner can move to if they are on the same rank or file. 
-**[Murder Holes](#/research/murder-holes):** Rooks gain diagonal movement. 
-**[Pyrrhic Victory](#/research/pyrrhic-victory):** If a rook survives to the 50-move mark, its side instantly wins the game. 
+**[Momentum](#/roe/momentum):** Rooks can teleport to any square its partner can move to if they are on the same rank or file. 
+**[Murder Holes](#/roe/murder-holes):** Rooks gain diagonal movement. 
+**[Pyrrhic Victory](#/roe/pyrrhic-victory):** If a rook survives to the 50-move mark, its side instantly wins the game. 
 
 <br>
 ---

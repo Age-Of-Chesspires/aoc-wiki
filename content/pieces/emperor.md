@@ -13,9 +13,9 @@ The **Emperor** is classified as a [royal piece](#/pieces/royals) with the follo
 
 ## Common Modifiers
 
-**[Feudalism](#/research/feudalism):** [Royals](#/pieces/index#royals) may move 2 squares forward instead of only one.
-**[Castle 2](#/research/castle-2):** [Royals](#/pieces/index#royals) may swap places with any friendly [piece](#/pieces/index) once per game. 
-**[Noble Sacrifice](#/research/noble-sacrifice):** When checked by exactly one [piece](#/pieces/index), sacrifice all [minor pieces](#/pieces/index#minor) to capture it.
+**[Feudalism](#/roe/feudalism):** [Royals](#/pieces/index#royals) may move 2 squares forward instead of only one.
+**[Castle 2](#/roe/castle-2):** [Royals](#/pieces/index#royals) may swap places with any friendly [piece](#/pieces/index) once per game. 
+**[Noble Sacrifice](#/roe/noble-sacrifice):** When checked by exactly one [piece](#/pieces/index), sacrifice all [minor pieces](#/pieces/index#minor) to capture it.
 
 <br>
 ---
