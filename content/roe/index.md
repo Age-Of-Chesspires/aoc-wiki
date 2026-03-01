@@ -5,7 +5,7 @@
 At the start of the game, each player votes on the match’s Rules. Votes increase the chance that a Rule occurs. 
 By default, there are 2 votes for [Dark Age](#/roe/dark-age), which causes no special changes.
 
-## List
+## List of Rule of Engagements
 - [Advisement](#/roe/advisement)
 - [Blitzkrieg](#/roe/blitzkrieg)
 - [Castle 2](#/roe/castle-2)

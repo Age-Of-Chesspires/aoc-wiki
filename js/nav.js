@@ -7,9 +7,9 @@ window.WIKI_NAV = [
   {
     section: "Getting Started",
     items: [
-      { title: "Welcome", path: "welcome", tags: ["overview", "rules", "start"] },
-      { title: "How to Play", path: "chess", tags: ["terms", "definitions", "rules", "guide"] },
-      { title: "FAQ", path: "faq", tags: ["help", "questions"] },
+      { title: "Welcome", path: "general/welcome", tags: ["overview", "rules", "start"] },
+      { title: "How to Play", path: "general/chess", tags: ["terms", "definitions", "rules", "guide"] },
+      { title: "FAQ", path: "general/faq", tags: ["help", "questions"] },
     ]
   },
   {
@@ -84,7 +84,9 @@ window.WIKI_NAV = [
   {
     section: "Cosmetics",
     items: [
+      { title: "Index", path: "cosmetics/index", tags: ["cosmetics", "emotes", "titles", "index"], hidden: true, isIndex: true},
       { title: "Emotes", path: "cosmetics/emotes", tags: ["emotes", "cosmetics", "social"] },
+      { title: "Titles", path: "cosmetics/titles", tags: ["titles", "cosmetics", "social"] },
     ]
   },
   {
