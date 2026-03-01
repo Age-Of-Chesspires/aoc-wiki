@@ -494,7 +494,7 @@ function titleForWikiPath(path) {
     const sectionLanding = getSectionLandingPath(page.section);
     const isSectionLanding = !!sectionLanding && page.path === sectionLanding;
 
-    const crumbs = [{ title: "Wiki", href: "#/welcome" }];
+    const crumbs = [{ title: "Wiki", href: "#/general/welcome" }];
 
     if (isSectionLanding) {
       crumbs.push({ title: page.section, href: null });
@@ -636,7 +636,7 @@ function titleForWikiPath(path) {
   }
 
   function getRoutePath() {
-    const h = (location.hash || "#/welcome").replace(/^#\/?/, "");
+    const h = (location.hash || "#/general/welcome").replace(/^#\/?/, "");
     const pathOnly = h.split("#")[0];
     return pathOnly.length ? pathOnly : "welcome";
   }
